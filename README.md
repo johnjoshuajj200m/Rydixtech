@@ -45,8 +45,8 @@ I build fast, clean web interfaces and practical automation systems that help bu
 
 ## 🔗 Connect With Me
 
-- 🌐 Website: https://rymdixtech.vercel.app  
-- 💼 LinkedIn: *(add when ready)*  
-- 🐦 X: *(optional)*
+- 🌐 Website: https://rymdixtech.com  
+- 💼 LinkedIn: (https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
+- 🐦 X: https://x.com/RymdixTech
 
 ⭐ Feel free to explore my repos and see what I’m building.
